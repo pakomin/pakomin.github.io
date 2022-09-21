@@ -1,2 +1,2 @@
 # pakomin.github.io
-reboot
+rebooting self
