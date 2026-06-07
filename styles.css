@@ -36,3 +36,5 @@ margin: 0 auto;
     .preserve {
 	white-space: pre-line;
     }
+
+    .tab { margin-left: 60px; }
